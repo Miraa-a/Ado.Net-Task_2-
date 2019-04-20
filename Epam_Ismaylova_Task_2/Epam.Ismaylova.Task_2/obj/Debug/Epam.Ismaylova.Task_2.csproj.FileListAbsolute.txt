@@ -1,0 +1,7 @@
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task_2\Epam.Ismaylova.Task_2\obj\Debug\Epam.Ismaylova.Task_2.csprojResolveAssemblyReference.cache
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task_2\Epam.Ismaylova.Task_2\obj\Debug\Epam.Ismaylova.Task_2.csproj.CoreCompileInputs.cache
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task_2\Epam.Ismaylova.Task_2\bin\Debug\Epam.Ismaylova.Task_2.exe.config
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task_2\Epam.Ismaylova.Task_2\bin\Debug\Epam.Ismaylova.Task_2.exe
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task_2\Epam.Ismaylova.Task_2\bin\Debug\Epam.Ismaylova.Task_2.pdb
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task_2\Epam.Ismaylova.Task_2\obj\Debug\Epam.Ismaylova.Task_2.exe
+C:\Users\IsmaylovaED\Downloads\Epam_Ismaylova_Task_2\Epam.Ismaylova.Task_2\obj\Debug\Epam.Ismaylova.Task_2.pdb
